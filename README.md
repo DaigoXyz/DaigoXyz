@@ -30,22 +30,16 @@ Suka ngebangun sistem yang **rapi, scalable, dan maintainable**.
 ### 📱 Frontend & Mobile
 ![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact)
-
----
 
 ## 🧩 Highlight Projects
-🔹 **[Project Name]**  
-Deskripsi singkat project (apa yang dibikin + tech yang dipake)
+🔹 **Kulling FoodTruck**  
+Sebuah App berbasis website dan mobile untuk foodtruck menggunakan React Native untuk mobile development dan React TypeScript untuk website development nya serta JavaScript untuk BackEndnya.
 
-🔹 **[Project Name]**  
-Blazor / .NET / SQL / React Native
+🔹 **Ticket**  
+Project simple CRUD menggunakan C# sebagai backend dan blazor sebagai frontend.
 
-*(Isi ini pake repo terbaik lu, jangan kebanyakan)*
+Kulling -> https://github.com/DaigoXyz/Kulling
+Ticket -> https://github.com/DaigoXyz/Ticket
 
 ---
 
