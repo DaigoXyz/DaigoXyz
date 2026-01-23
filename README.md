@@ -1,16 +1,58 @@
-## Hi there 👋
+# 👋 Halo, Nama Saya Daffa
+💻 Software Developer  
+⚙️ Backend .NET | 🌐 Web | 📱 Mobile  
+📍 Indonesia
 
-<!--
-**DaigoXyz/DaigoXyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me 
+Saya adalah seorang developer junior yang fokus di pengembangan aplikasi **backend & fullstack**, dengan pengalaman di ekosistem **.NET**, **Blazor**, dan **mobile development**.   
+Suka ngebangun sistem yang **rapi, scalable, dan maintainable**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Lagi fokus: Web App & API dengan .NET
+- 🌱 Lagi ngulik: Optimasi backend & arsitektur aplikasi
+- 💬 Bahas: C#, SQL, Blazor, React Native
+- ⚡ Fun fact: Lebih sering fixxing error daripada ngoding wkwkwk😄 
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Languages
+![C#](https://img.shields.io/badge/-C%23-512BD4?style=flat&logo=csharp&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=databricks&logoColor=white)
+
+### ⚙️ Frameworks & Platforms
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Blazor](https://img.shields.io/badge/-Blazor-512BD4?style=flat&logo=blazor&logoColor=white)
+
+### 📱 Frontend & Mobile
+![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact)
+
+---
+
+## 🧩 Highlight Projects
+🔹 **[Project Name]**  
+Deskripsi singkat project (apa yang dibikin + tech yang dipake)
+
+🔹 **[Project Name]**  
+Blazor / .NET / SQL / React Native
+
+*(Isi ini pake repo terbaik lu, jangan kebanyakan)*
+
+---
+
+## 📫 Kontak
+- 📧 Email: daffaalridzky007@email.com   
+- 💼 LinkedIn: www.linkedin.com/in/daffaalridzky007  
+
+---
+
+⭐ Makasih udah mau ngebaca dan ngeliat liat profile saya hehe 
