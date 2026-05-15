@@ -15,7 +15,10 @@ Suka ngebangun sistem yang **rapi, scalable, dan maintainable**.
 - ⚡ Fun fact: Lebih sering fixxing error daripada ngoding wkwkwk😄 
 
 ---
+### 🏆 GitHub Trophies
+[![] (https://github-profile-trophy.vercel.app/?username=DaigoXyz&theme=radical&no-frame=false&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
+---
 ## 🛠 Tech Stack
 
 ### 💻 Languages
