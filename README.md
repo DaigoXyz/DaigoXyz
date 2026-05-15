@@ -14,8 +14,10 @@ Suka ngebangun sistem yang **rapi, scalable, dan maintainable**.
 - 💬 Bahas: C#, SQL, Blazor, React Native
 - ⚡ Fun fact: Lebih sering fixxing error daripada ngoding wkwkwk😄 
 
+---
+
 ### 🏆 GitHub Trophies
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DaigoXyz&theme=radical&hide=issues,stars,reviews)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DaigoXyz&theme=radical&hide=issues,stars,reviews&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 ## 🛠 Tech Stack
